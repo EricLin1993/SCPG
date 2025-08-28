@@ -1,6 +1,6 @@
 # Non-uniform sampling reconstruction for symmetrical NMR spectroscopy by exploiting inherent symmetry
 
-**The provided code constitutes the experimental component of our work: 'Non-uniform sampling reconstruction for symmetrical NMR spectroscopy by exploiting inherent symmetry'. The code compares the reconstructed spectra obtained under different sampling schedules and using different reconstruction algorithms**
+**The provided code constitutes the experimental component of our work: 'Non-uniform sampling reconstruction for symmetrical NMR spectroscopy by exploiting inherent symmetry'. The code compares the reconstructed spectra obtained under different sampling schedules and using different reconstruction algorithms.**
 
 <img width="2388" height="1782" alt="图片" src="https://github.com/user-attachments/assets/efe544a1-7076-4111-b9f0-580e7809d534" />
 
@@ -28,5 +28,6 @@ If you find this code helpful to your work, please cite the following related wo
 
 
 If you have any questions or concerns about the code, please contact the author via email enpinglin@xmu.edu.cn. 
+
 
 
