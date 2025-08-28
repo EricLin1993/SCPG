@@ -18,9 +18,14 @@ The experimental data is a 1H-1H symmetrical spectra data obtained from the 128 
 # Citations
 
 If you find this code helpful to your work, please cite the following related work:
-1. Lin, E., Fang, Z., Huang, Y., Yang, Y., & Chen, Z. (2025). Non-uniform sampling reconstruction for symmetrical NMR spectroscopy by exploiting inherent symmetry. Signal Processing, 236, 110057. https://doi.org/10.1016/j.sigpro.2025.110057
+
+    1. Lin, E., Fang, Z., Huang, Y., Yang, Y., & Chen, Z. (2025). Non-uniform sampling reconstruction for symmetrical NMR spectroscopy by exploiting inherent symmetry. Signal Processing, 236, 110057. https://doi.org/10.1016/j.sigpro.2025.110057
+    2. Fang, Z., Chen, B., Huang, C., Yuan, Y., Luo, Y., Wu, L., Chen, Y., Huang, Y., Yang, Y., Lin, E., & Chen, Z. (2024). SCREENES: Enhancing non-uniform sampling reconstruction for symmetrical NMR spectroscopy. Analytica Chimica Acta, 1303, 342510. https://doi.org/10.1016/j.aca.2024.342510
+
+
 
 # Contact
 
 
 If you have any questions or concerns about the code, please contact the author via email enpinglin@xmu.edu.cn. 
+
